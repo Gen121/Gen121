@@ -12,17 +12,17 @@ https://t.me/CheEugene — Telegram
 
 ### Навыки
 ```
-:snake:Python: {
+Python: {
     FastApi, Pydantic, SQLAlchemy, # Актуальный стек
     Django, DRF, # Прошлые проекты
     Pytest, Unittest,
 }
-:card_file_box:DataBases: {
+DataBases: {
     PostgreSQL, # База
     Redis, # Кэш + Pub/Sub
     EdgeDB, # Изюминка
 }
-:whale:Infrastructure: { # Линтеры, инфраструктура
+Infrastructure: { # Линтеры, инфраструктура
     Flake8, Black, и Isort, TypeHinting,
     setup.py, setuptools
     Git, GitHub Actions,
@@ -30,7 +30,7 @@ https://t.me/CheEugene — Telegram
     Docker, Docker Compose,
     Linux, ssh, Make,
 }
-:brain:Conceptions: { # Концепции и парадигмы
+Conceptions: { # Концепции и парадигмы
     KISS, YAGNI, DRY,
     OOP: {Abstraction, Encapsulation, Inheritance, Polymorphism},
     SOLID,
@@ -40,9 +40,9 @@ https://t.me/CheEugene — Telegram
     Tests: {Unit, integrity, e2e},
 }
 
-:us:English: { B1 }
+English: { B1 }
 
-:es:Español: { A2 }
+Español: { A2 }
 ```
 ### Опыт работы
 1.

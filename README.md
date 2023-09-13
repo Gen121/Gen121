@@ -16,6 +16,7 @@ Python: {
     FastApi, Pydantic, SQLAlchemy, # Актуальный стек
     Django, DRF, # Прошлые проекты
     Pytest, Unittest,
+    httpx, requests
 }
 DataBases: {
     PostgreSQL, # База

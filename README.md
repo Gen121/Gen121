@@ -1,8 +1,19 @@
 ## Челноков Евгений Алексеевич
+[WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)  
+```
++7 926 882-91-88
+```
 
-+7 (926) 8829188 — WhatsApp  
-https://t.me/CheEugene — Telegram  
-chelnok1190@gmail.com — :email:Email  
+[Telegram](https://t.me/CheEugene)
+```
+https://t.me/CheEugene
+```
+
+:email:Email
+```
+chelnok1190@gmail.com
+```
+
 
 ### Обо мне:
 Программировать впервые начал в 2018 году в своей предпринимательской деятельности. Требовалось сопровождать веб-лендинг на Flask понравилась синтаксическая выразительность Python.

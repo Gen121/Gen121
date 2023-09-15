@@ -239,13 +239,13 @@ chelnok1190@gmail.com
 | [Ломая барьеры](https://github.com/Gen121/lomaya_baryery_backend/edit/develop/README.md) |
 |-------------|
 | Telegram-бот, предназначенный для сбора фото-результатов ежедневных заданий, выполняемых детьми дома. Эти задания направлены на развитие жизненных навыков: чистка зубов, стирка и мытье посуды и т.д. По окончании трехмесячного курса "Я могу жить" дети получают заслуженные награды.
- [![FastAPI][FastAPI-badge]][FastAPI-url][![FastAPI-RESTful][FastAPI-RESTful-badge]][FastAPI-RESTful-url][![Python-telegram-bot][Python-telegram-bot-badge]][Python-telegram-bot-url][![SQLAlchemy][SQLAlchemy-badge]][SQLAlchemy-url][![Alembic][Alembic-badge]][Alembic-url][![Poetry][Poetry-badge]][Poetry-url][![Jinja2][Jinja2-badge]][Jinja2-url][![Loguru][Loguru-badge]][Loguru-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url]|
+ [![FastAPI][FastAPI-badge]][FastAPI-url][![Pydantic][Pydantic-badge]][Pydantic-url][![FastAPI-RESTful][FastAPI-RESTful-badge]][FastAPI-RESTful-url][![Python-telegram-bot][Python-telegram-bot-badge]][Python-telegram-bot-url][![SQLAlchemy][SQLAlchemy-badge]][SQLAlchemy-url][![Alembic][Alembic-badge]][Alembic-url][![Poetry][Poetry-badge]][Poetry-url][![Jinja2][Jinja2-badge]][Jinja2-url][![Loguru][Loguru-badge]][Loguru-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url]|
 ---
 
 | [FastAPI-EdgeDB-DDD](https://github.com/Gen121/Fastapi-EdgeDB-DDD) |
 |-------------|
 | Эксперимент по использованию концепции чистой архитектуры для замены используемого веб-фреймворка и базы данных. На основе приложения, рассмотренного в книге "Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура".
-[![FastAPI][FastAPI-badge]][FastAPI-url][![EdgeDB][EdgeDB-badge]][EdgeDB-url][![Redis][Redis-badge]][Redis-url][![Pydantic][Pydantic-badge]][Pydantic-url][![Pytest][Pytest-badge]][Pytest-url][![Setuptools][Setuptools-badge]][Setuptools-url][![Docker][Docker-badge]][Docker-url]|
+[![FastAPI][FastAPI-badge]][FastAPI-url][![Pydantic][Pydantic-badge]][Pydantic-url][![EdgeDB][EdgeDB-badge]][EdgeDB-url][![Redis][Redis-badge]][Redis-url][![Pytest][Pytest-badge]][Pytest-url][![Setuptools][Setuptools-badge]][Setuptools-url][![Docker][Docker-badge]][Docker-url]|
 
 
 | [Foodgram](https://github.com/Gen121/foodgram-project-react) |

@@ -251,7 +251,7 @@ chelnok1190@gmail.com
 | [Foodgram](https://github.com/Gen121/foodgram-project-react) |
 |-------------|
 | Мой дипломный проект на ЯндексПрактикум. Foodgram - это комплексный онлайн-сервис, призванный упростить процесс приготовления пищи. Этот проект предоставляет пользователям возможность публиковать свои рецепты, следить за творчеством других кулинаров, сохранять любимые рецепты и составлять сводные списки покупок.
-[![Django][Django-badge]][Django-url][![DRF][DRF-badge]][DRF-url][![Djoser][Djoser-badge]][Djoser-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url][![React][React-badge]][React-url]|
+[![Django][Django-badge]][Django-url][![DRF][DRF-badge]][DRF-url][![Djoser][Djoser-badge]][Djoser-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url][![React][React-badge]][React-url][![GitHub-Actions][GitHub-Actions-badge]][GitHub-Actions-url]|
 
 | [Scrapy](https://github.com/Gen121/scrapy_parser_pep) |
 |-------------|

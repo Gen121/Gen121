@@ -245,7 +245,7 @@ chelnok1190@gmail.com
 | [FastAPI-EdgeDB-DDD](https://github.com/Gen121/Fastapi-EdgeDB-DDD) |
 |-------------|
 | Эксперимент по использованию концепции чистой архитектуры для замены используемого веб-фреймворка и базы данных. На основе приложения, рассмотренного в книге "Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура".
-[![FastAPI][FastAPI-badge]][FastAPI-url][![EdgeDB][EdgeDB-badge]][EdgeDB-url] [![Redis][Redis-badge]][Redis-url][![Pydantic][Pydantic-badge]][Pydantic-url][![Pytest][Pytest-badge]][Pytest-url][![Setuptools][Setuptools-badge]][Setuptools-url][![Docker][Docker-badge]][Docker-url]|
+[![FastAPI][FastAPI-badge]][FastAPI-url][![EdgeDB][EdgeDB-badge]][EdgeDB-url][![Redis][Redis-badge]][Redis-url][![Pydantic][Pydantic-badge]][Pydantic-url][![Pytest][Pytest-badge]][Pytest-url][![Setuptools][Setuptools-badge]][Setuptools-url][![Docker][Docker-badge]][Docker-url]|
 
 
 | [Foodgram](https://github.com/Gen121/foodgram-project-react) |

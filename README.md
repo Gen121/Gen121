@@ -220,12 +220,20 @@ September 2021 - to point 2 Completed a course on web development using Django f
 
 
 ## Челноков Евгений Алексеевич
+<<<<<<< Updated upstream
 [WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)  
+=======
+[WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)[![WhatsApp][WhatsApp-badge]][WhatsApp-url]
+>>>>>>> Stashed changes
 ```
 +7 926 882-91-88
 ```
 
+<<<<<<< Updated upstream
 [Telegram](https://t.me/CheEugene)
+=======
+[Telegram](https://t.me/CheEugene)[![Telegram][Telegram-badge]][Telegram-url]
+>>>>>>> Stashed changes
 ```
 https://t.me/CheEugene
 ```
@@ -234,6 +242,32 @@ https://t.me/CheEugene
 ```
 chelnok1190@gmail.com
 ```
+<<<<<<< Updated upstream
+=======
+### Проекты: <!-- [![][-badge]][-url] -->
+
+| [Ломая барьеры](https://github.com/Gen121/lomaya_baryery_backend/edit/develop/README.md) |
+|-------------|
+| Telegram-бот, предназначенный для сбора фото-результатов ежедневных заданий, выполняемых детьми дома. Эти задания направлены на развитие жизненных навыков: чистка зубов, стирка и мытье посуды и т.д. По окончании трехмесячного курса "Я могу жить" дети получают заслуженные награды.
+ [![FastAPI][FastAPI-badge]][FastAPI-url][![FastAPI-RESTful][FastAPI-RESTful-badge]][FastAPI-RESTful-url][![Python-telegram-bot][Python-telegram-bot-badge]][Python-telegram-bot-url][![SQLAlchemy][SQLAlchemy-badge]][SQLAlchemy-url][![Alembic][Alembic-badge]][Alembic-url][![Poetry][Poetry-badge]][Poetry-url][![Jinja2][Jinja2-badge]][Jinja2-url][![Loguru][Loguru-badge]][Loguru-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url]|
+---
+
+| [FastAPI-EdgeDB-DDD](https://github.com/Gen121/Fastapi-EdgeDB-DDD) |
+|-------------|
+| Эксперимент по использованию концепции чистой архитектуры для замены используемого веб-фреймворка и базы данных. На основе приложения, рассмотренного в книге "Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура".
+[![FastAPI][FastAPI-badge]][FastAPI-url][![EdgeDB][EdgeDB-badge]][EdgeDB-url] [![Redis][Redis-badge]][Redis-url][![Pydantic][Pydantic-badge]][Pydantic-url][![Pytest][Pytest-badge]][Pytest-url][![Setuptools][Setuptools-badge]][Setuptools-url][![Docker][Docker-badge]][Docker-url]|
+
+
+| [Foodgram](https://github.com/Gen121/foodgram-project-react) |
+|-------------|
+| Мой дипломный проект на ЯндексПрактикум. Foodgram - это комплексный онлайн-сервис, призванный упростить процесс приготовления пищи. Этот проект предоставляет пользователям возможность публиковать свои рецепты, следить за творчеством других кулинаров, сохранять любимые рецепты и составлять сводные списки покупок.
+[![Django][Django-badge]][Django-url][![DRF][DRF-badge]][DRF-url][![Djoser][Djoser-badge]][Djoser-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url][![React][React-badge]][React-url]|
+
+| [Scrapy](https://github.com/Gen121/scrapy_parser_pep) |
+|-------------|
+| Scrapy, мощный фреймворк на языке Python для сбора информации из Интернета. Он выполняет поиск на индексной странице, извлекает соответствующие данные о состоянии и генерирует CSV-файл для удобства визуализации и анализа.
+[![Scrapy][Scrapy-badge]][Scrapy-url][![Pytest][Pytest-badge]][Pytest-url]|
+>>>>>>> Stashed changes
 
 
 ### Обо мне:
@@ -278,9 +312,6 @@ English: { B1 }
 Español: { A2 }
 ```
 
-### Проект в работе
-Эксперимент по использованию концепции чистой архитектуры для замены используемого веб-фреймворка и базы данных.
-[FastAPI-EdgeDB-DDD](https://github.com/Gen121/Fastapi-EdgeDB-DDD)
 
 
 ### Опыт работы
@@ -320,3 +351,78 @@ Español: { A2 }
 - Управление проектом на удаленном сервере: Настроил сервер в облаке Yandex.Cloud, автоматизировал сборку и тестирования и обновления кода, а также развернул проект в Docker-контейнерах.
 
 - Создал полноценный веб-сайт "Foodgram" интегрировав api backend и frontend частей. Включает системы регистрации и авторизации пользователей, публикации рецептов, избранных статей, тегов, создания списка покупок. Проект развернут на сервере в Яндекс.Облаке, используя PostgreSQL и Docker.
+
+<!-- MARKDOWN LINKS & BADGES  [![][-badge]][-url]   -->
+
+[FastAPI-url]: https://fastapi.tiangolo.com/
+[FastAPI-badge]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
+
+[Django-url]: https://www.django-rest-framework.org/
+[Django-badge]: https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=ffffff
+
+[DRF-url]: https://www.djangoproject.com/
+[DRF-badge]: https://img.shields.io/badge/Django%20REST%20framework-2c2c2c?style=for-the-badge&logo=django&logoColor=900202
+
+[Djoser-url]: https://github.com/sunscrapers/djoser
+[Djoser-badge]: https://img.shields.io/badge/Djoser-2c2c2c?style=for-the-badge&logo=django&logoColor=900202
+
+[Python-telegram-bot-url]: https://github.com/python-telegram-bot/python-telegram-bot
+[Python-telegram-bot-badge]: https://img.shields.io/badge/python--telegram--bot-2CA5E0?style=for-the-badge&logo=python
+
+[Postgres-url]: https://www.postgresql.org/
+[Postgres-badge]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+
+[Nginx-url]: https://nginx.org
+[Nginx-badge]: https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white
+
+[Redis-url]: https://redis.com/
+[Redis-badge]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
+
+[SQLAlchemy-url]: https://sqlalchemy.org/
+[SQLAlchemy-badge]: https://img.shields.io/badge/sqlalchemy-778877?style=for-the-badge&logo=python&logoColor=d71f00
+
+[Alembic-url]: https://sqlalchemy.org/
+[Alembic-badge]: https://img.shields.io/badge/alembic-778877?style=for-the-badge&logo=python&logoColor=d71f00
+
+[WhatsApp-url]: https://wa.me/qr/L5UWXBK4PVP5N1
+[WhatsApp-badge]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+
+[Telegram-url]: https://https://t.me/CheEugene
+[Telegram-badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+
+[Docker-url]: https://www.docker.com/
+[Docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+
+[GitHub-Actions-url]: https://github.com/features/actions
+[GitHub-Actions-badge]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
+
+[Poetry-url]: https://python-poetry.org/
+[Poetry-badge]: https://img.shields.io/badge/Poetry-5a7db3?style=for-the-badge&logo=python&logoColor=00c9f6
+
+[FastAPI-RESTful-url]: https://fastapi-restful.netlify.app/
+[FastAPI-RESTful-badge]: https://img.shields.io/badge/FastAPI%20RESTful-4cae4f?style=for-the-badge&logo=fastapi&logoColor=white
+
+[Jinja2-url]: https://pypi.org/project/Jinja2/
+[Jinja2-badge]: https://img.shields.io/badge/Jinja2-373737?style=for-the-badge&logo=python&logoColor=a81b1b
+
+[Loguru-url]: https://github.com/Delgan/loguru
+[Loguru-badge]: https://img.shields.io/badge/Loguru-333333?style=for-the-badge&logo=python&logoColor=f99e2b
+
+[EdgeDB-url]: https://www.edgedb.com/
+[EdgeDB-badge]: https://img.shields.io/badge/Edge-DB-0CCB93?style=for-the-badge
+
+[Pydantic-url]: https://docs.pydantic.dev/latest/
+[Pydantic-badge]: https://img.shields.io/badge/pydantic-e92063?style=for-the-badge&logo=python&logoColor=ffffff
+
+
+[Pytest-url]: https://docs.pytest.org/en/7.4.x/
+[Pytest-badge]: https://img.shields.io/badge/pytest-696969?style=for-the-badge&logo=python&logoColor=6fc8ee
+
+[Setuptools-url]: https://github.com/pypa/setuptools
+[Setuptools-badge]: https://img.shields.io/badge/setuptools-6a6a6a?style=for-the-badge&logo=python&logoColor=ffe244
+
+[React-url]: https://react.dev/
+[React-badge]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+
+[Scrapy-url]: https://scrapy.org/
+[Scrapy-badge]: https://img.shields.io/badge/Scrapy-60a839?style=for-the-badge&logo=python&logoColor=d1d2d3

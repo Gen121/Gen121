@@ -220,20 +220,12 @@ September 2021 - to point 2 Completed a course on web development using Django f
 
 
 ## Челноков Евгений Алексеевич
-<<<<<<< Updated upstream
-[WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)  
-=======
 [WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)[![WhatsApp][WhatsApp-badge]][WhatsApp-url]
->>>>>>> Stashed changes
 ```
 +7 926 882-91-88
 ```
 
-<<<<<<< Updated upstream
-[Telegram](https://t.me/CheEugene)
-=======
 [Telegram](https://t.me/CheEugene)[![Telegram][Telegram-badge]][Telegram-url]
->>>>>>> Stashed changes
 ```
 https://t.me/CheEugene
 ```
@@ -242,8 +234,6 @@ https://t.me/CheEugene
 ```
 chelnok1190@gmail.com
 ```
-<<<<<<< Updated upstream
-=======
 ### Проекты: <!-- [![][-badge]][-url] -->
 
 | [Ломая барьеры](https://github.com/Gen121/lomaya_baryery_backend/edit/develop/README.md) |
@@ -267,7 +257,6 @@ chelnok1190@gmail.com
 |-------------|
 | Scrapy, мощный фреймворк на языке Python для сбора информации из Интернета. Он выполняет поиск на индексной странице, извлекает соответствующие данные о состоянии и генерирует CSV-файл для удобства визуализации и анализа.
 [![Scrapy][Scrapy-badge]][Scrapy-url][![Pytest][Pytest-badge]][Pytest-url]|
->>>>>>> Stashed changes
 
 
 ### Обо мне:

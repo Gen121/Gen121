@@ -220,12 +220,12 @@ September 2021 - to point 2 Completed a course on web development using Django f
 
 
 ## Челноков Евгений Алексеевич
-[WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)[![WhatsApp][WhatsApp-badge]][WhatsApp-url]
+[![WhatsApp][WhatsApp-badge]][WhatsApp-url] [WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)
 ```
 +7 926 882-91-88
 ```
 
-[Telegram](https://t.me/CheEugene)[![Telegram][Telegram-badge]][Telegram-url]
+[![Telegram][Telegram-badge]][Telegram-url] [Telegram](https://t.me/CheEugene)
 ```
 https://t.me/CheEugene
 ```

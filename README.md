@@ -398,7 +398,7 @@ Español: { A2 }
 [Loguru-badge]: https://img.shields.io/badge/Loguru-333333?style=for-the-badge&logo=python&logoColor=f99e2b
 
 [EdgeDB-url]: https://www.edgedb.com/
-[EdgeDB-badge]: https://img.shields.io/badge/Edge-DB-0CCB93?style=for-the-badge
+[EdgeDB-badge]: https://img.shields.io/badge/EdgeDB-0CCB93?style=for-the-badge
 
 [Pydantic-url]: https://docs.pydantic.dev/latest/
 [Pydantic-badge]: https://img.shields.io/badge/pydantic-e92063?style=for-the-badge&logo=python&logoColor=ffffff

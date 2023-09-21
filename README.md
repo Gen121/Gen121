@@ -17,6 +17,28 @@ https://t.me/CheEugene
 chelnok1190@gmail.com
 ```
 
+### Proyectos: <!-- [![][-badge]][-url] -->
+
+| [Romper barreras](https://github.com/Gen121/lomaya_baryery_backend/edit/develop/README.md) |
+|-------------|
+| Telegram bot designed to collect photo results of daily tasks performed by children at home. These tasks are aimed at developing life skills: brushing teeth, doing laundry and washing dishes, etc. At the end of the three-month "I Can Live" course, children receive well-deserved awards.
+ [![FastAPI][FastAPI-badge]][FastAPI-url][![Pydantic][Pydantic-badge]][Pydantic-url][![FastAPI-RESTful][FastAPI-RESTful-badge]][FastAPI-RESTful-url][![Python-telegram-bot][Python-telegram-bot-badge]][Python-telegram-bot-url][![SQLAlchemy][SQLAlchemy-badge]][SQLAlchemy-url][![Alembic][Alembic-badge]][Alembic-url][![Poetry][Poetry-badge]][Poetry-url][![Jinja2][Jinja2-badge]][Jinja2-url][![Loguru][Loguru-badge]][Loguru-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url]|
+---
+
+| [FastAPI-EdgeDB-DDD](https://github.com/Gen121/Fastapi-EdgeDB-DDD) |
+|-------------|
+| An experiment in using the concept of clean architecture to replace the web framework and database in use. Based on the application discussed in the book "Python Development Patterns: TDD, DDD and Event-Driven Architecture".
+[![FastAPI][FastAPI-badge]][FastAPI-url][![Pydantic][Pydantic-badge]][Pydantic-url][![EdgeDB][EdgeDB-badge]][EdgeDB-url][![Redis][Redis-badge]][Redis-url][![Pytest][Pytest-badge]][Pytest-url][![Setuptools][Setuptools-badge]][Setuptools-url][![Docker][Docker-badge]][Docker-url]|
+
+| [Foodgram](https://github.com/Gen121/foodgram-project-react) |
+|-------------|
+| My diploma project on YandexPractice. Foodgram is a comprehensive online service designed to simplify the process of cooking. This project gives users the opportunity to publish their recipes, follow the creativity of other cooks, save their favorite recipes and make consolidated shopping lists.
+[![Django][Django-badge]][Django-url][![DRF][DRF-badge]][DRF-url][![Djoser][Djoser-badge]][Djoser-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url][![React][React-badge]][React-url][![GitHub-Actions][GitHub-Actions-badge]][GitHub-Actions-url]|
+
+| [Scrapy](https://github.com/Gen121/scrapy_parser_pep) |
+|-------------|
+| Scrapy is a powerful Python framework for gathering information from the web. It searches the index page, retrieves relevant state data and generates a CSV file for easy visualization and analysis.
+[![Scrapy][Scrapy-badge]][Scrapy-url][![Pytest][Pytest-badge]][Pytest-url]|
 
 ### About Me:
 Started programming for the first time in 2018 in my entrepreneurial endeavors. Was required to maintain a weblending in Flask liked the syntactic expressiveness of Python.
@@ -59,11 +81,6 @@ English: { B1 }
 
 Español: { A2 }
 ```
-
-### Project in progress
-An experiment to use the concept of clean architecture to replace the web framework and database in use.
-[FastAPI-EdgeDB-DDD](https://github.com/Gen121/Fastapi-EdgeDB-DDD)
-
 
 ### Work Experience
 1. Charitable Foundation Breaking Barriers, Ufa. 
@@ -126,7 +143,29 @@ https://t.me/CheEugene
 ```
 chelnok1190@gmail.com
 ```
+### Proyectos: <!-- [![][-badge]][-url] -->
 
+| [Romper barreras](https://github.com/Gen121/lomaya_baryery_backend/edit/develop/README.md) |
+|-------------|
+| Telegram-bot diseñado para recoger los resultados fotográficos de las tareas diarias que realizan los niños en casa. Estas tareas están destinadas a desarrollar habilidades para la vida: cepillarse los dientes, lavar y fregar los platos, etc. Al final del curso "Puedo vivir", de tres meses de duración, los niños reciben merecidas recompensas.
+ [![FastAPI][FastAPI-badge]][FastAPI-url][![Pydantic][Pydantic-badge]][Pydantic-url][![FastAPI-RESTful][FastAPI-RESTful-badge]][FastAPI-RESTful-url][![Python-telegram-bot][Python-telegram-bot-badge]][Python-telegram-bot-url][![SQLAlchemy][SQLAlchemy-badge]][SQLAlchemy-url][![Alembic][Alembic-badge]][Alembic-url][![Poetry][Poetry-badge]][Poetry-url][![Jinja2][Jinja2-badge]][Jinja2-url][![Loguru][Loguru-badge]][Loguru-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url]|
+---
+
+| [FastAPI-EdgeDB-DDD](https://github.com/Gen121/Fastapi-EdgeDB-DDD) |
+|-------------|
+| Un experimento en el uso del concepto de arquitectura limpia para reemplazar el framework web y la base de datos en uso. Basado en la aplicación tratada en el libro "Python Development Patterns: TDD, DDD and Event-Driven Architecture".
+[![FastAPI][FastAPI-badge]][FastAPI-url][![Pydantic][Pydantic-badge]][Pydantic-url][![EdgeDB][EdgeDB-badge]][EdgeDB-url][![Redis][Redis-badge]][Redis-url][![Pytest][Pytest-badge]][Pytest-url][![Setuptools][Setuptools-badge]][Setuptools-url][![Docker][Docker-badge]][Docker-url]|
+
+
+| [Foodgram](https://github.com/Gen121/foodgram-project-react) |
+|-------------|
+| Mi proyecto de fin de estudios en YandexPractice. Foodgram es un completo servicio en línea diseñado para simplificar el proceso de cocinar. Este proyecto ofrece a los usuarios la posibilidad de publicar sus recetas, seguir la creatividad de otros cocineros, guardar sus recetas favoritas y hacer listas de la compra consolidadas.
+[![Django][Django-badge]][Django-url][![DRF][DRF-badge]][DRF-url][![Djoser][Djoser-badge]][Djoser-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url][![React][React-badge]][React-url][![GitHub-Actions][GitHub-Actions-badge]][GitHub-Actions-url]|
+
+| [Scrapy](https://github.com/Gen121/scrapy_parser_pep) |
+|-------------|
+| Scrapy un potente framework de Python para recopilar información de la web. Busca en la página índice, recupera datos de estado relevantes y genera un archivo CSV para facilitar su visualización y análisis.
+[![Scrapy][Scrapy-badge]][Scrapy-url][![Pytest][Pytest-badge]][Pytest-url]|
 
 ### About Me:
 Comencé a programar por primera vez en 2018 en mi emprendimiento. Se requería mantener un weblending en Flask me gustó la expresividad sintáctica de Python.
@@ -169,11 +208,6 @@ English: { B1 }
 
 Español: { A2 }
 ```
-
-### Proyecto en curso
-Un experimento para utilizar el concepto de arquitectura limpia para reemplazar el framework web y la base de datos en uso.
-[FastAPI-EdgeDB-DDD](https://github.com/Gen121/Fastapi-EdgeDB-DDD)
-
 
 ### Experiencia laboral
 1. Fundación benéfica Rompiendo Barreras, Ufa. 
@@ -244,7 +278,6 @@ chelnok1190@gmail.com
 | Эксперимент по использованию концепции чистой архитектуры для замены используемого веб-фреймворка и базы данных. На основе приложения, рассмотренного в книге "Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура".
 [![FastAPI][FastAPI-badge]][FastAPI-url][![Pydantic][Pydantic-badge]][Pydantic-url][![EdgeDB][EdgeDB-badge]][EdgeDB-url][![Redis][Redis-badge]][Redis-url][![Pytest][Pytest-badge]][Pytest-url][![Setuptools][Setuptools-badge]][Setuptools-url][![Docker][Docker-badge]][Docker-url]|
 
-
 | [Foodgram](https://github.com/Gen121/foodgram-project-react) |
 |-------------|
 | Мой дипломный проект на ЯндексПрактикум. Foodgram - это комплексный онлайн-сервис, призванный упростить процесс приготовления пищи. Этот проект предоставляет пользователям возможность публиковать свои рецепты, следить за творчеством других кулинаров, сохранять любимые рецепты и составлять сводные списки покупок.
@@ -297,8 +330,6 @@ English: { B1 }
 
 Español: { A2 }
 ```
-
-
 
 ### Опыт работы
 1. Благотворительный Фонд Ломая Барьеры, Уфа 

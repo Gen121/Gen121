@@ -1,114 +1,4 @@
 <details>
-  <summary>Español</summary>
-
-## Chelnokov Eugeny
-[WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)  
-```
-+7 926 882-91-88
-```
-
-[Telegram](https://t.me/CheEugene)
-```
-https://t.me/CheEugene
-```
-
-:email: Correo electrónico
-```
-chelnok1190@gmail.com
-```
-
-
-### About Me:
-Comencé a programar por primera vez en 2018 en mi emprendimiento. Se requería mantener un weblending en Flask me gustó la expresividad sintáctica de Python.
-Estudio más serio de Python comenzó en diciembre de 2020, primero como un hobby, más tarde para automatizar el trabajo con los servicios de Google API y otras tareas aplicadas.
-
-Aficiones - juegos de mesa y ping pong.
-
-### Habilidades
-```
-Python: {
-    FastApi, Pydantic, SQLAlchemy, ## Pila actual
-    Django, DRF, ### Proyectos anteriores
-    Pytest, Unittest,
-    httpx, requests
-}
-Bases de datos: {
-    PostgreSQL, # Base de datos
-    Redis, # Caché + Pub/Sub
-    EdgeDB, # Raisin
-}
-Infraestructura: { # Linters, Infraestructura
-    Flake8, Black, e Isort, TypeHinting,
-    setup.py, setuptools
-    Git, GitHub Acciones,
-    Nginx, # nginx-proxy-manager
-    Docker, Docker Compose,
-    Linux, ssh, Make,
-}
-Conceptos: { # Conceptos y paradigmas
-    BESO, YAGNI, SECO,
-    POO: { # Abstracción, Encapsulación, Herencia, Polimorfismo},
-    SOLID,
-    REST,
-    ACID, Teorema CAP,
-    TDD, DDD, Arquitectura dirigida por eventos,
-    Pruebas: {Unidad, integridad, e2e},
-}
-
-English: { B1 }
-
-Español: { A2 }
-```
-
-### Proyecto en curso
-Un experimento para utilizar el concepto de arquitectura limpia para reemplazar el framework web y la base de datos en uso.
-[FastAPI-EdgeDB-DDD](https://github.com/Gen121/Fastapi-EdgeDB-DDD)
-
-
-### Experiencia laboral
-1. Fundación benéfica Rompiendo Barreras, Ufa. 
-Proyecto - github.com/Gen121/lomaya_baryery_backend
-Febrero 2023 - Julio 2023 6 meses
-Programador Python (Prácticas, Voluntariado)
-Información - https://xn--80aacr0agnub4ii6a.xn--p1ai/news/1678/
-
-- Participé en el desarrollo de un proyecto educativo que incluía un bot de telegram y un sitio web(admin) para niños con necesidades especiales, proporcionándoles motivación a través de la gamificación y premios de incentivo. Lanzamiento con éxito del proyecto a tiempo para el inicio del turno.
-- Conectados en una fase clave de la creación. Aplastado el historial acumulado de migraciones del alambique durante la fase de desarrollo, lo que permite identificar los errores de denominación de los campos y las restricciones aplicadas a los mismos, lo que a su vez facilita el mantenimiento de la BD.
----
-
-2. Yandex.Praktikum (formación), Moscú
-Proyecto - https://github.com/Gen121/scrapy_parser_pep
-Agosto 2021 - Septiembre 2022 1 año 2 meses
-Programador Python Extended Stack (Formación)
-
-- Análisis de datos: Bibliotecas básicas de análisis (Scrapy, BeautifulSoup, Selenium). Configuración y ejecución de un analizador sintáctico, incluido analizador asíncrono, trabajo con marcado HTML utilizando herramientas de desarrollador de navegador.
-
-- Curso de interacción con los servicios: Google API, integrado FastAPI appku con los servicios de Google API. Procesamiento automatizado de datos de tablas de hojas de cálculo con herramientas de Python.
----
-
-3. Yandex.Praktikum (formación), Moscú.
-Proyecto - https://github.com/Gen121/foodgram-project-react
-Programador Python (Formación)
-Septiembre 2021 - al punto 2 Completado un curso sobre desarrollo web utilizando Django framework, que abarca los siguientes temas:
-
-- Desarrollo web con Django: creación de aplicaciones web, manejo de peticiones HTTP, integración DB, desarrollo de plantillas html ( incluyendo c Jinja2).
-
-- Pruebas: Aprender a escribir pruebas automatizadas unitarias, de integridad y e2e utilizando las librerías Unittest y Pytest. Uso de Selenium para pruebas e2e de extremo a extremo con renderizado de páginas.
-
-- Trabajo con APIs: Aprendí REST API, escribí un bot que interactúa con servicios web, y autorización OAuth a través de redes sociales y mecanismo de autenticación sin estado JWT tokens.
-
-- Algoritmos y estructuras de datos: Comprensión de la complejidad temporal de los algoritmos y las estructuras de datos integradas.
-
-- Gestión de proyectos en un servidor remoto: Configuración de un servidor en Yandex.Cloud, construcción y pruebas automatizadas y actualizaciones de código, y despliegue del proyecto en contenedores Docker.
-
-- Creación de un sitio web completo "Foodgram" integrando partes de backend y frontend api. Incluye sistemas de registro y autorización de usuarios, publicación de recetas, artículos favoritos, etiquetas, creación de listas de la compra. El proyecto está desplegado en un servidor en Yandex.Cloud usando PostgreSQL y Docker.
-
-</details>
-
-
-
-
-<details>
   <summary>English</summary>
 
 ## Chelnokov Evgeny Alekseevich
@@ -182,8 +72,10 @@ February 2023 - July 2023 6 months
 Python Programmer (Internship, Volunteering)
 Information - https://xn--80aacr0agnub4ii6a.xn--p1ai/news/1678/
 
-- Participated in the development of an educational project including a telegram bot and website(admin) for children with developmental disabilities, providing them with motivation through gamification and incentive prizes. Successfully launched the project in time for the start of the shift.
-- Connected at a key stage of creation. Squashed the accumulated history of alembic migrations during the development phase, allowing for the identification of misnaming of fields and the constraints applied to them, which in turn facilitates database maintenance.
+- Experience of working in collaboration on a project for a charitable foundation. Team of more than 30 people.(organization of kanban in notion) For 9 months was released telegram service - bot and admin panel for employees. Back admin panel and bot - Fastapi and python-telegram-bot, front end - React. Successfully launched the project by the start of the shift.
+- Plugged in at a key stage of creation. Squashed the alembic migration history accumulated during the development phase, which revealed the misnaming of fields and the constraints applied to them, which in turn makes it easier to maintain the database.
+
+Translated with www.DeepL.com/Translator (free version)
 ---
 
 2. Yandex.Praktikum (training), Moscow
@@ -216,7 +108,112 @@ September 2021 - to point 2 Completed a course on web development using Django f
 </details>
 
 
+<details>
+  <summary>Español</summary>
 
+## Chelnokov Eugeny
+[WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)  
+```
++7 926 882-91-88
+```
+
+[Telegram](https://t.me/CheEugene)
+```
+https://t.me/CheEugene
+```
+
+:email: Correo electrónico
+```
+chelnok1190@gmail.com
+```
+
+
+### About Me:
+Comencé a programar por primera vez en 2018 en mi emprendimiento. Se requería mantener un weblending en Flask me gustó la expresividad sintáctica de Python.
+Estudio más serio de Python comenzó en diciembre de 2020, primero como un hobby, más tarde para automatizar el trabajo con los servicios de Google API y otras tareas aplicadas.
+
+Aficiones - juegos de mesa y ping pong.
+
+### Habilidades
+```
+Python: {
+    FastApi, Pydantic, SQLAlchemy, ## Pila actual
+    Django, DRF, ### Proyectos anteriores
+    Pytest, Unittest,
+    httpx, requests
+}
+Bases de datos: {
+    PostgreSQL, # Base de datos
+    Redis, # Caché + Pub/Sub
+    EdgeDB, # Raisin
+}
+Infraestructura: { # Linters, Infraestructura
+    Flake8, Black, e Isort, TypeHinting,
+    setup.py, setuptools
+    Git, GitHub Acciones,
+    Nginx, # nginx-proxy-manager
+    Docker, Docker Compose,
+    Linux, ssh, Make,
+}
+Conceptos: { # Conceptos y paradigmas
+    BESO, YAGNI, SECO,
+    POO: { # Abstracción, Encapsulación, Herencia, Polimorfismo},
+    SOLID,
+    REST,
+    ACID, Teorema CAP,
+    TDD, DDD, Arquitectura dirigida por eventos,
+    Pruebas: {Unidad, integridad, e2e},
+}
+
+English: { B1 }
+
+Español: { A2 }
+```
+
+### Proyecto en curso
+Un experimento para utilizar el concepto de arquitectura limpia para reemplazar el framework web y la base de datos en uso.
+[FastAPI-EdgeDB-DDD](https://github.com/Gen121/Fastapi-EdgeDB-DDD)
+
+
+### Experiencia laboral
+1. Fundación benéfica Rompiendo Barreras, Ufa. 
+Proyecto - github.com/Gen121/lomaya_baryery_backend
+Febrero 2023 - Julio 2023 6 meses
+Programador Python (Prácticas, Voluntariado)
+Información - https://xn--80aacr0agnub4ii6a.xn--p1ai/news/1678/
+
+- Experiencia de trabajo conjunto en un proyecto para un fondo de caridad. Equipo de más de 30 personas.(organización de kanban en noción) Durante 9 meses fue lanzado servicio telegrama - bot y panel de administración para los empleados. Panel de administración y bot - Fastapi y python-telegram-bot, front-end - React. Lanzado con éxito el proyecto por el inicio del turno.
+- Conectado en una etapa clave de la creación. Aplastado el historial de migración de almbic acumulado durante la fase de desarrollo, que reveló la denominación errónea de los campos y las restricciones aplicadas a ellos, lo que a su vez facilita el mantenimiento de la base de datos.
+---
+
+2. Yandex.Praktikum (formación), Moscú
+Proyecto - https://github.com/Gen121/scrapy_parser_pep
+Agosto 2021 - Septiembre 2022 1 año 2 meses
+Programador Python Extended Stack (Formación)
+
+- Análisis de datos: Bibliotecas básicas de análisis (Scrapy, BeautifulSoup, Selenium). Configuración y ejecución de un analizador sintáctico, incluido analizador asíncrono, trabajo con marcado HTML utilizando herramientas de desarrollador de navegador.
+
+- Curso de interacción con los servicios: Google API, integrado FastAPI appku con los servicios de Google API. Procesamiento automatizado de datos de tablas de hojas de cálculo con herramientas de Python.
+---
+
+3. Yandex.Praktikum (formación), Moscú.
+Proyecto - https://github.com/Gen121/foodgram-project-react
+Programador Python (Formación)
+Septiembre 2021 - al punto 2 Completado un curso sobre desarrollo web utilizando Django framework, que abarca los siguientes temas:
+
+- Desarrollo web con Django: creación de aplicaciones web, manejo de peticiones HTTP, integración DB, desarrollo de plantillas html ( incluyendo c Jinja2).
+
+- Pruebas: Aprender a escribir pruebas automatizadas unitarias, de integridad y e2e utilizando las librerías Unittest y Pytest. Uso de Selenium para pruebas e2e de extremo a extremo con renderizado de páginas.
+
+- Trabajo con APIs: Aprendí REST API, escribí un bot que interactúa con servicios web, y autorización OAuth a través de redes sociales y mecanismo de autenticación sin estado JWT tokens.
+
+- Algoritmos y estructuras de datos: Comprensión de la complejidad temporal de los algoritmos y las estructuras de datos integradas.
+
+- Gestión de proyectos en un servidor remoto: Configuración de un servidor en Yandex.Cloud, construcción y pruebas automatizadas y actualizaciones de código, y despliegue del proyecto en contenedores Docker.
+
+- Creación de un sitio web completo "Foodgram" integrando partes de backend y frontend api. Incluye sistemas de registro y autorización de usuarios, publicación de recetas, artículos favoritos, etiquetas, creación de listas de la compra. El proyecto está desplegado en un servidor en Yandex.Cloud usando PostgreSQL y Docker.
+
+</details>
 
 
 ## Челноков Евгений Алексеевич
@@ -310,7 +307,7 @@ Español: { A2 }
 Програмист Python (Стажировка, Волонтерская деятельность)
 Информация — https://xn--80aacr0agnub4ii6a.xn--p1ai/news/1678/
 
-- Участвовал в разработке образовательного проекта, включающего телеграм-бот и веб-сайт(админка) для детей с особенностями развития, обеспечивая им мотивацию через геймификаию и поощрительные призы. Успешно запустив проект к началу смены.
+- Опыт совместной работы над проектом для благотворительного фонда. Команда более 30 человек.(организация канбан в notion) За 9 месяцев был выпущен сервис телеграм - бот и админ панель для сотрудников. Бэк админки и бот - Fastapi и python-telegram-bot, фронт - React. Успешно запустив проект к началу смены.
 - Подключился на ключевом этапе создания. Сквошил накопившуюся на этапе разработки историю миграций alembic, что позволило выявить миснейминг полей и применяющихся к ним ограничений, что в свою очередь облегчает поддержку БД.
 ---
 

@@ -19,7 +19,7 @@ chelnok1190@gmail.com
 
 ### Proyectos: <!-- [![][-badge]][-url] -->
 
-| [Romper barreras](https://github.com/Gen121/lomaya_baryery_backend/edit/develop/README.md) |
+| [Romper barreras](https://github.com/Gen121/lomaya_baryery_backend) |
 |-------------|
 | Telegram bot designed to collect photo results of daily tasks performed by children at home. These tasks are aimed at developing life skills: brushing teeth, doing laundry and washing dishes, etc. At the end of the three-month "I Can Live" course, children receive well-deserved awards.
  [![FastAPI][FastAPI-badge]][FastAPI-url][![Pydantic][Pydantic-badge]][Pydantic-url][![FastAPI-RESTful][FastAPI-RESTful-badge]][FastAPI-RESTful-url][![Python-telegram-bot][Python-telegram-bot-badge]][Python-telegram-bot-url][![SQLAlchemy][SQLAlchemy-badge]][SQLAlchemy-url][![Alembic][Alembic-badge]][Alembic-url][![Poetry][Poetry-badge]][Poetry-url][![Jinja2][Jinja2-badge]][Jinja2-url][![Loguru][Loguru-badge]][Loguru-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url]|
@@ -145,7 +145,7 @@ chelnok1190@gmail.com
 ```
 ### Proyectos: <!-- [![][-badge]][-url] -->
 
-| [Romper barreras](https://github.com/Gen121/lomaya_baryery_backend/edit/develop/README.md) |
+| [Romper barreras](https://github.com/Gen121/lomaya_baryery_backend) |
 |-------------|
 | Telegram-bot diseñado para recoger los resultados fotográficos de las tareas diarias que realizan los niños en casa. Estas tareas están destinadas a desarrollar habilidades para la vida: cepillarse los dientes, lavar y fregar los platos, etc. Al final del curso "Puedo vivir", de tres meses de duración, los niños reciben merecidas recompensas.
  [![FastAPI][FastAPI-badge]][FastAPI-url][![Pydantic][Pydantic-badge]][Pydantic-url][![FastAPI-RESTful][FastAPI-RESTful-badge]][FastAPI-RESTful-url][![Python-telegram-bot][Python-telegram-bot-badge]][Python-telegram-bot-url][![SQLAlchemy][SQLAlchemy-badge]][SQLAlchemy-url][![Alembic][Alembic-badge]][Alembic-url][![Poetry][Poetry-badge]][Poetry-url][![Jinja2][Jinja2-badge]][Jinja2-url][![Loguru][Loguru-badge]][Loguru-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url]|
@@ -267,7 +267,7 @@ chelnok1190@gmail.com
 ```
 ### Проекты: <!-- [![][-badge]][-url] -->
 
-| [Ломая барьеры](https://github.com/Gen121/lomaya_baryery_backend/edit/develop/README.md) |
+| [Ломая барьеры](https://github.com/Gen121/lomaya_baryery_backend) |
 |-------------|
 | Telegram-бот, предназначенный для сбора фото-результатов ежедневных заданий, выполняемых детьми дома. Эти задания направлены на развитие жизненных навыков: чистка зубов, стирка и мытье посуды и т.д. По окончании трехмесячного курса "Я могу жить" дети получают заслуженные награды.
  [![FastAPI][FastAPI-badge]][FastAPI-url][![Pydantic][Pydantic-badge]][Pydantic-url][![FastAPI-RESTful][FastAPI-RESTful-badge]][FastAPI-RESTful-url][![Python-telegram-bot][Python-telegram-bot-badge]][Python-telegram-bot-url][![SQLAlchemy][SQLAlchemy-badge]][SQLAlchemy-url][![Alembic][Alembic-badge]][Alembic-url][![Poetry][Poetry-badge]][Poetry-url][![Jinja2][Jinja2-badge]][Jinja2-url][![Loguru][Loguru-badge]][Loguru-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url]|

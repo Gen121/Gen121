@@ -1,7 +1,7 @@
 <details>
   <summary>English</summary>
 
-## Chelnokov Evgeny Alekseevich
+## Chelnokov Evgeny
 [![WhatsApp][WhatsApp-badge]][WhatsApp-url] [WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)
 ```
 +7 926 882-91-88

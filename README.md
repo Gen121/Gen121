@@ -35,10 +35,6 @@ chelnok1190@gmail.com
 | My diploma project on YandexPractice. Foodgram is a comprehensive online service designed to simplify the process of cooking. This project gives users the opportunity to publish their recipes, follow the creativity of other cooks, save their favorite recipes and make consolidated shopping lists.
 [![Django][Django-badge]][Django-url][![DRF][DRF-badge]][DRF-url][![Djoser][Djoser-badge]][Djoser-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url][![React][React-badge]][React-url][![GitHub-Actions][GitHub-Actions-badge]][GitHub-Actions-url]|
 
-| [Scrapy](https://github.com/Gen121/scrapy_parser_pep) |
-|-------------|
-| Scrapy is a powerful Python framework for gathering information from the web. It searches the index page, retrieves relevant state data and generates a CSV file for easy visualization and analysis.
-[![Scrapy][Scrapy-badge]][Scrapy-url][![Pytest][Pytest-badge]][Pytest-url]|
 
 ### About Me:
 Started programming for the first time in 2018 in my entrepreneurial endeavors. Was required to maintain a weblending in Flask liked the syntactic expressiveness of Python.
@@ -162,10 +158,6 @@ chelnok1190@gmail.com
 | Mi proyecto de fin de estudios en YandexPractice. Foodgram es un completo servicio en línea diseñado para simplificar el proceso de cocinar. Este proyecto ofrece a los usuarios la posibilidad de publicar sus recetas, seguir la creatividad de otros cocineros, guardar sus recetas favoritas y hacer listas de la compra consolidadas.
 [![Django][Django-badge]][Django-url][![DRF][DRF-badge]][DRF-url][![Djoser][Djoser-badge]][Djoser-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url][![React][React-badge]][React-url][![GitHub-Actions][GitHub-Actions-badge]][GitHub-Actions-url]|
 
-| [Scrapy](https://github.com/Gen121/scrapy_parser_pep) |
-|-------------|
-| Scrapy un potente framework de Python para recopilar información de la web. Busca en la página índice, recupera datos de estado relevantes y genera un archivo CSV para facilitar su visualización y análisis.
-[![Scrapy][Scrapy-badge]][Scrapy-url][![Pytest][Pytest-badge]][Pytest-url]|
 
 ### About Me:
 Comencé a programar por primera vez en 2018 en mi emprendimiento. Se requería mantener un weblending en Flask me gustó la expresividad sintáctica de Python.
@@ -282,11 +274,6 @@ chelnok1190@gmail.com
 |-------------|
 | Мой дипломный проект на ЯндексПрактикум. Foodgram - это комплексный онлайн-сервис, призванный упростить процесс приготовления пищи. Этот проект предоставляет пользователям возможность публиковать свои рецепты, следить за творчеством других кулинаров, сохранять любимые рецепты и составлять сводные списки покупок.
 [![Django][Django-badge]][Django-url][![DRF][DRF-badge]][DRF-url][![Djoser][Djoser-badge]][Djoser-url][![Pytest][Pytest-badge]][Pytest-url][![Postgres][Postgres-badge]][Postgres-url][![Nginx][Nginx-badge]][Nginx-url][![Docker][Docker-badge]][Docker-url][![React][React-badge]][React-url][![GitHub-Actions][GitHub-Actions-badge]][GitHub-Actions-url]|
-
-| [Scrapy](https://github.com/Gen121/scrapy_parser_pep) |
-|-------------|
-| Scrapy, мощный фреймворк на языке Python для сбора информации из Интернета. Он выполняет поиск на индексной странице, извлекает соответствующие данные о состоянии и генерирует CSV-файл для удобства визуализации и анализа.
-[![Scrapy][Scrapy-badge]][Scrapy-url][![Pytest][Pytest-badge]][Pytest-url]|
 
 
 ### Обо мне:

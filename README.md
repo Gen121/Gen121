@@ -2,12 +2,12 @@
   <summary>English</summary>
 
 ## Chelnokov Evgeny Alekseevich
-[WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)  
+[![WhatsApp][WhatsApp-badge]][WhatsApp-url] [WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)
 ```
 +7 926 882-91-88
 ```
 
-[Telegram](https://t.me/CheEugene)
+[![Telegram][Telegram-badge]][Telegram-url] [Telegram](https://t.me/CheEugene)
 ```
 https://t.me/CheEugene
 ```
@@ -17,7 +17,7 @@ https://t.me/CheEugene
 chelnok1190@gmail.com
 ```
 
-### Proyectos: <!-- [![][-badge]][-url] -->
+### Projects: <!-- [![][-badge]][-url] -->
 
 | [Romper barreras](https://github.com/Gen121/lomaya_baryery_backend) |
 |-------------|
@@ -92,7 +92,7 @@ Information - https://xn--80aacr0agnub4ii6a.xn--p1ai/news/1678/
 - Experience of working in collaboration on a project for a charitable foundation. Team of more than 30 people.(organization of kanban in notion) For 9 months was released telegram service - bot and admin panel for employees. Back admin panel and bot - Fastapi and python-telegram-bot, front end - React. Successfully launched the project by the start of the shift.
 - Plugged in at a key stage of creation. Squashed the alembic migration history accumulated during the development phase, which revealed the misnaming of fields and the constraints applied to them, which in turn makes it easier to maintain the database.
 
-Translated with www.DeepL.com/Translator (free version)
+
 ---
 
 2. Yandex.Praktikum (training), Moscow
@@ -129,12 +129,12 @@ September 2021 - to point 2 Completed a course on web development using Django f
   <summary>Español</summary>
 
 ## Chelnokov Eugeny
-[WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)  
+[![WhatsApp][WhatsApp-badge]][WhatsApp-url] [WhatsApp](https://wa.me/qr/L5UWXBK4PVP5N1)
 ```
 +7 926 882-91-88
 ```
 
-[Telegram](https://t.me/CheEugene)
+[![Telegram][Telegram-badge]][Telegram-url] [Telegram](https://t.me/CheEugene)
 ```
 https://t.me/CheEugene
 ```
